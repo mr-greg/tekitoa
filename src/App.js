@@ -1,12 +1,12 @@
 import './App.css';
+import Landing from './components/Landing';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
 
   return (
     <div className="App">
-      <h1 className='fontNw'>Test</h1>
-      <h1 className='fontMst'>Test</h1>
-      <p className="fontMst"></p>
+      <Landing />
     </div>
   );
 }

@@ -1,0 +1,31 @@
+.contenu .tktLogo {
+    width: 35%;
+}
+
+.contenu .presentationTKT {
+    font-size: 20px;
+    color: white;
+    margin-top: -25px;
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.829);
+}
+
+.contenu .presentationTKT a {
+    text-decoration: none;
+    color: #F05183;
+    text-shadow: 1px 1px 8px #f05183c7;
+}
+
+.contenu .separateur {
+    width: 150px;
+    margin-top: 50px;
+    box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.726);
+
+}
+
+.contenu .enLive {
+    font-size: 45px;
+    color: white;
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.829);
+
+    margin-top: 100px;
+}
