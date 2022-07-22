@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './components/style/landing.css';
 import App from './App';
 import './assets/fonts/Montserrat-ExtraLight.ttf';
 import './assets/fonts/norwester.otf';
