@@ -1,6 +1,7 @@
 import logoTitre from "../assets/img/TKT_-_TEXT.png";
 import tktBackground from "../assets/img/TKT_-_Background.png";
 import { Link } from "react-router-dom";
+import EnLive from "./EnLive";
 
 const Landing = () => {
 
@@ -19,7 +20,7 @@ const Landing = () => {
 
             <hr className="separateur"/>
 
-            <h2 className="fontNw enLive">Ils sont en live !</h2>
+            <EnLive />
             
         </div>
     );
