@@ -12,7 +12,6 @@ const EnLive = () => {
 
             <div className="streams">
                 
-{/* ziefjoizejf */}
 
             </div>
 
